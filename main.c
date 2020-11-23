@@ -35,6 +35,17 @@ int main()
 		
 	}
 	if(j==0)
-		printf( "%lf sal bayad montazer bashe",t);
+		printf( "%lf sal bayad montazer bashe\n",t);
+
+	if (t>3 && s>=16)
+	{
+		printf("in che vaze zendegie to dari:|");
+	}
+	else
+	{
+		printf("mitoni jobran koni");
+	}
+	
+	
 	return (0);
 }
